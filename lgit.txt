@@ -3,3 +3,5 @@
 3、public static void main（）{
 	systerm.out.println("helloworld")
 }
+4、git is a distributed version control systerm
+5、git is gree software distributed under the gpl
