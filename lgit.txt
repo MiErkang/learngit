@@ -1,2 +1,5 @@
 1、hello Java
 2、hello mierkang
+3、public static void main（）{
+	systerm.out.println("helloworld")
+}
